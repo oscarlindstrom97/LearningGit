@@ -1,8 +1,12 @@
 body {
-    margin: 0;
+    margin: 30vw;
     background-color: blue;
 }
 
 img {
     max-width: 100%;
+}
+
+header {
+    width: 10%;
 }
