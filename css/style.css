@@ -1,8 +1,12 @@
 body {
-    margin: 0;
+    margin: 50px;
     background-color: blue;
 }
 
 p {
     font-family: arial;
+}
+
+footer {
+    width: 100%;
 }
